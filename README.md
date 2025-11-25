@@ -2,6 +2,11 @@
 
 This is a full-stack application featuring a Next.js frontend and a FastAPI backend, designed to help manage emails with AI-powered features like categorization, action item extraction, and summarization.
 
+<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/f2ff5945-f87c-469b-bb36-9c495a2c6040" />
+<img width="1894" height="913" alt="image" src="https://github.com/user-attachments/assets/2dbf219c-711a-4c61-bdca-1f5238b51683" />
+<img width="1911" height="925" alt="image" src="https://github.com/user-attachments/assets/33cf357d-9572-4eb3-b115-f08867d505a3" />
+
+
 ## Prerequisites
 
 - **Node.js**: v18 or higher (for the frontend)
